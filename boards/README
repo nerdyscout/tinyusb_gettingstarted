@@ -1,0 +1,3 @@
+files inside this folder overwrite default board configuration.
+
+see: https://docs.platformio.org/en/latest/platforms/creating_board.html
